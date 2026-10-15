@@ -1,0 +1,12 @@
+{
+  "name": "Remix NariCare AI - Women\u0027s Health \u0026 PCOS Platform",
+  "description": "Multilingual AI-assisted women\u0027s health understanding, PCOS education, safe medical triage, nearby hospital discovery, and transparent per-session doctor consultations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
